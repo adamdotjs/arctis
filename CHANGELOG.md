@@ -6,4 +6,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+## [0.0.1] - 08-29-2021
+- Initial Release
+
+## [0.0.2] - 09-03-2021
+- Made minor adjustments to syntax colors to improve legibility and separation between different syntax.
