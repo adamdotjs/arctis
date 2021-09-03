@@ -57,14 +57,13 @@
 		"editor.stackFrameHighlightBackground": "#5e81ac",
 		"editor.wordHighlightBackground": "#81a1c166",
 		"editor.wordHighlightStrongBackground": "#81a1c199",
-		"editorActiveLineNumber.foreground": "#d8dee9cc",
 		"editorBracketMatch.background": "#2e344000",
 		"editorBracketMatch.border": "#88c0d0",
 		"editorCodeLens.foreground": "#4c566a",
 		"editorCursor.foreground": "#d8dee9",
 		"editorError.border": "#bf616a00",
 		"editorError.foreground": "#bf616a",
-		"editorGroup.background": "#2e3440",
+		"editorGroup.emptyBackground": "#2e3440",
 		"editorGroup.border": "#3b425201",
 		"editorGroup.dropBackground": "#3b425299",
 		"editorGroupHeader.border": "#3b425200",
@@ -396,7 +395,7 @@
 				"keyword.control.def.ruby"
 			],
 			"settings": {
-				"foreground": "#E788A9"
+				"foreground": "#E48BAA"
 			}
 		},
 		{
@@ -460,7 +459,7 @@
 				"markup.code"
 			],
 			"settings": {
-				"foreground": "#C6CFBE" 
+				"foreground": "#CBD3C5" 
 			}
 		},
 		{
@@ -648,7 +647,7 @@
 				"source.tf entity.name"
 			],
 			"settings": {
-				"foreground": "#28EB9A"
+				"foreground": "#17CF82"
 			}
 		},
 		{
@@ -668,7 +667,7 @@
 				"text.tex markup.raw"
 			],
 			"settings": {
-				"foreground": "#28EB9A"
+				"foreground": "#17CF82"
 			}
 		},
 		{
