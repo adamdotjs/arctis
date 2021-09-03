@@ -5,9 +5,9 @@
 
 When working in bright light or using multiple monitors with different foreground brightness levels, I personally find that having too dark of a theme can be straining to the eyes. Arctis aims to solve that problem by maintaining strong legibility and contrast in all lighting conditions without relying on switching between dark and light themes.
 
-To accomplish this, it borrows the brilliant syntax highlighting from Noctis and combines it with the very relaxing and easy-to-stare-at UI from Nord. The result is what I think is truly a perfect combination.
+To accomplish this, it borrows the brilliant syntax highlighting (with some minor color tweaks) from Noctis and combines it with the very relaxing and easy-to-stare-at UI from Nord. The result is what I think is truly a perfect combination.
 
-Syntax colors were slightly adjusted to maintain WCAG 4.5:1 minimum contrast.  
+Keeping accessibility in mind, all syntax colors maintain at least WCAG 4.5:1 minimum contrast.  
 
 ### **Main UI**  
 ![main](main.jpg)  
@@ -18,10 +18,12 @@ Syntax colors were slightly adjusted to maintain WCAG 4.5:1 minimum contrast.
 ### **Python**  
 ![html](python.jpg)
 
-## Recommended Font Settings:
+## Font settings as shown in screenshots:
 ```
 "editor.fontFamily": "Source Code Variable",
+"editor.fontSize": "16",
 "editor.fontWeight": "500",
+"editor.lineHeight": "1.7"
 ```
 
 ## Credits:

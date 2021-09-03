@@ -396,7 +396,7 @@
 				"keyword.control.def.ruby"
 			],
 			"settings": {
-				"foreground": "#E48BAA"
+				"foreground": "#E788A9"
 			}
 		},
 		{
@@ -460,7 +460,7 @@
 				"markup.code"
 			],
 			"settings": {
-				"foreground": "#A3BE8C" 
+				"foreground": "#C6CFBE" 
 			}
 		},
 		{
@@ -528,7 +528,7 @@
 				"markup.meta.attribute-list"
 			],
 			"settings": {
-				"foreground": "#E09E85"
+				"foreground": "#E29678"
 			}
 		},
 		{
@@ -569,7 +569,7 @@
 				"meta.definition.attribute-entry punctuation.separator"
 			],
 			"settings": {
-				"foreground": "#E4A525"
+				"foreground": "#E8AB30"
 			}
 		},
 		{
@@ -631,7 +631,7 @@
 				"markup.block entity.name.tag"
 			],
 			"settings": {
-				"foreground": "#EC8760"
+				"foreground": "#EA8057"
 			}
 		},
 		{
@@ -648,7 +648,7 @@
 				"source.tf entity.name"
 			],
 			"settings": {
-				"foreground": "#1CE390"
+				"foreground": "#28EB9A"
 			}
 		},
 		{
@@ -668,7 +668,7 @@
 				"text.tex markup.raw"
 			],
 			"settings": {
-				"foreground": "#1CE390"
+				"foreground": "#28EB9A"
 			}
 		},
 		{
@@ -688,7 +688,7 @@
 				"source.toml constant"
 			],
 			"settings": {
-				"foreground": "#9B90EE"
+				"foreground": "#9D91F2"
 			}
 		},
 		{
@@ -715,7 +715,7 @@
 				"source.tf support.class"
 			],
 			"settings": {
-				"foreground": "#2BC0D4"
+				"foreground": "#19B7CD"
 			}
 		},
 		{
@@ -753,7 +753,7 @@
 				"entity.name.scope-resolution.function.call"
 			],
 			"settings": {
-				"foreground": "#77E0EE"
+				"foreground": "#71E4F4"
 			}
 		},
 		{
@@ -808,7 +808,7 @@
 				"markup.substitution"
 			],
 			"settings": {
-				"foreground": "#60B6EC"
+				"foreground": "#5BB7F1"
 			}
 		},
 		{
