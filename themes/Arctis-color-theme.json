@@ -281,9 +281,9 @@
 		"welcomePage.buttonBackground": "#434c5e",
 		"welcomePage.buttonHoverBackground": "#4c566a",
 		"widget.shadow": "#00000066",
-		"editorBracketHighlight.foreground1": "#D8DEE9",
-		"editorBracketHighlight.foreground2": "#EBCB8B",
-		"editorBracketHighlight.foreground3": "#C695BD",
+		"editorBracketHighlight.foreground1": "#F1CD85",
+		"editorBracketHighlight.foreground2": "#CA78BB",
+		"editorBracketHighlight.foreground3": "#3591D4",
 	},
 	"tokenColors": [
 		{
@@ -398,7 +398,7 @@
 				"keyword.control.def.ruby"
 			],
 			"settings": {
-				"foreground": "#E085A3"
+				"foreground": "#E396B0"
 			}
 		},
 		{
@@ -462,7 +462,7 @@
 				"markup.code"
 			],
 			"settings": {
-				"foreground": "#DBC2A3" 
+				"foreground": "#E0CBB3" 
 			}
 		},
 		{
@@ -530,7 +530,7 @@
 				"markup.meta.attribute-list"
 			],
 			"settings": {
-				"foreground": "#DB916B"
+				"foreground": "#DE9D7D"
 			}
 		},
 		{
@@ -571,7 +571,7 @@
 				"meta.definition.attribute-entry punctuation.separator"
 			],
 			"settings": {
-				"foreground": "#DCA538"
+				"foreground": "#DDAC4B"
 			}
 		},
 		{
@@ -633,7 +633,7 @@
 				"markup.block entity.name.tag"
 			],
 			"settings": {
-				"foreground": "#EC7D51"
+				"foreground": "#EB8860"
 			}
 		},
 		{
@@ -650,7 +650,7 @@
 				"source.tf entity.name"
 			],
 			"settings": {
-				"foreground": "#15C179"
+				"foreground": "#19CC81"
 			}
 		},
 		{
@@ -670,7 +670,7 @@
 				"text.tex markup.raw"
 			],
 			"settings": {
-				"foreground": "#15C179"
+				"foreground": "#19CC81"
 			}
 		},
 		{
@@ -690,7 +690,7 @@
 				"source.toml constant"
 			],
 			"settings": {
-				"foreground": "#9F90EA"
+				"foreground": "#A59FEA"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 				"source.tf support.class"
 			],
 			"settings": {
-				"foreground": "#17B6CF"
+				"foreground": "#1ABCD5"
 			}
 		},
 		{
@@ -755,7 +755,7 @@
 				"entity.name.scope-resolution.function.call"
 			],
 			"settings": {
-				"foreground": "#4AD3E8"
+				"foreground": "#5ED6E8"
 			}
 		},
 		{
@@ -810,7 +810,7 @@
 				"markup.substitution"
 			],
 			"settings": {
-				"foreground": "#52ABEA"
+				"foreground": "#66B3EA"
 			}
 		},
 		{
