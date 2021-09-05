@@ -4,6 +4,12 @@ All notable changes to the "arctis" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.4] - 09-04-2021
+- Added themed support for the new bracket pair colorizer feature. Default colors adjusted to match the saturation of the theme colors.
+
+## [0.0.3] - 09-03-2021
+- Fixed two deprecated settings in config file
+
 ## [0.0.2] - 09-03-2021
 - Made minor adjustments to syntax colors to improve legibility and separation between different syntax.
 

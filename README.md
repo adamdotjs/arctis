@@ -12,16 +12,20 @@ Keeping accessibility in mind, all syntax colors maintain at least WCAG 4.5:1 mi
 ### **Main UI**  
 ![main](main.jpg)  
 
-### **HTML**  
-![html](html.jpg)
+### **React**  
+![react](react.jpg)
 
 ### **Python**  
 ![html](python.jpg)
 
+## v0.0.4 now includes themed colors for the new built-in bracket pair highlighter. Enable the following to use:
+```
+"editor.bracketPairColorization.enabled": true,
+```
+
 ## Font settings as shown in screenshots:
 ```
 "editor.fontFamily": "Source Code Variable",
-"editor.fontSize": "16",
 "editor.fontWeight": "500",
 "editor.lineHeight": "1.7"
 ```

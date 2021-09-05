@@ -29,3 +29,9 @@
  console.log(Someone);
  let a = () => { };
  
+ {
+    {
+       {
+       }
+    }
+ }
