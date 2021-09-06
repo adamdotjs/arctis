@@ -462,7 +462,7 @@
 				"markup.code"
 			],
 			"settings": {
-				"foreground": "#E8D0A1" 
+				"foreground": "#E7C59D" 
 			}
 		},
 		{
@@ -650,7 +650,7 @@
 				"source.tf entity.name"
 			],
 			"settings": {
-				"foreground": "#30C084"
+				"foreground": "#16B673"
 			}
 		},
 		{
@@ -670,7 +670,7 @@
 				"text.tex markup.raw"
 			],
 			"settings": {
-				"foreground": "#30C084"
+				"foreground": "#16B673"
 			}
 		},
 		{
