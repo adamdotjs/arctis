@@ -4,6 +4,9 @@ All notable changes to the "arctis" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.6] - 09-06-2021
+- Fine tuned the syntax colors a little more. Some colors seemed to attract too much focus.
+
 ## [0.0.5] - 09-05-2021
 - More tweaks. Someday I'll make up my mind, sorry if you have to keep updating it!
 

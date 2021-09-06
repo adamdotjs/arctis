@@ -18,7 +18,7 @@ Keeping accessibility in mind, all syntax colors maintain at least WCAG 4.5:1 mi
 ### **Python**  
 ![html](python.jpg)
 
-## Now includes themed colors for the new built-in bracket pair highlighter (shown in screenshots). Enable the following to use:
+## Includes themed colors for the new built-in bracket pair highlighter. Enable the following to use:
 ```
 "editor.bracketPairColorization.enabled": true,
 ```
