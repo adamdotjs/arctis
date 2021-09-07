@@ -251,16 +251,16 @@
 		"terminal.ansiBrightCyan": "#85D6E0",
 		"terminal.ansiBrightGreen": "#2EB87A",
 		"terminal.ansiBrightMagenta": "#E79DB7",
-		"terminal.ansiBrightRed": "#DA8B6C",
-		"terminal.ansiBrightYellow": "#E8D0A1",
+		"terminal.ansiBrightRed": "#D98868",
+		"terminal.ansiBrightYellow": "#E7C59D",
 		"terminal.ansiBrightWhite": "#eceff4",
 		"terminal.ansiBlack": "#3b4252",
 		"terminal.ansiBlue": "#9695E4",
 		"terminal.ansiCyan": "#85D6E0",
 		"terminal.ansiGreen": "#2EB87A",
 		"terminal.ansiMagenta": "#E79DB7",
-		"terminal.ansiRed": "#DA8B6C",
-		"terminal.ansiYellow": "#E8D0A1",
+		"terminal.ansiRed": "#D98868",
+		"terminal.ansiYellow": "#E7C59D",
 		"terminal.ansiWhite": "#e5e9f0",
 		"terminal.background": "#2e3440",
 		"terminal.foreground": "#d8dee9",
@@ -571,7 +571,7 @@
 				"meta.definition.attribute-entry punctuation.separator"
 			],
 			"settings": {
-				"foreground": "#D6B15C"
+				"foreground": "#D4B254"
 			}
 		},
 		{
@@ -633,7 +633,7 @@
 				"markup.block entity.name.tag"
 			],
 			"settings": {
-				"foreground": "#DA8B6C"
+				"foreground": "#D98868"
 			}
 		},
 		{
