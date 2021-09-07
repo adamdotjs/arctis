@@ -4,11 +4,12 @@
  */
  const BROWSER = navigator.userAgent.search("Firefox") > -1;
 
+
  export default class Person {
     constructor(who, likesDogs) {
        this.who = who;
        this.likesDogs = likesDogs;
-    }
+    } 
     about() {
        const { who, likesDogs } = this;
        let select = 12345;
@@ -24,14 +25,5 @@
  class Someone extends Person { }
  console.log(John.about().length, BROWSER);
  
- 
- 
  console.log(Someone);
  let a = () => { };
- 
- {
-    {
-       {
-       }
-    }
- }

@@ -2,7 +2,7 @@
     "name": "arctis",
     "displayName": "Arctis",
     "description": "A cool, soothing blend of Nord and Noctis for comfortable coding all day long.",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "engines": {
         "vscode": "^1.59.0"
     },
