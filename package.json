@@ -1,41 +1,42 @@
 {
-    "name": "arctis",
-    "displayName": "Arctis",
-    "description": "A cool, soothing blend of Nord and Noctis for comfortable coding all day long.",
-    "version": "0.0.9",
-    "engines": {
-        "vscode": "^1.59.0"
-    },
-    "publisher": "avidworks",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/avidworks/arctis.git"
-    },
-    "galleryBanner": {
-        "color": "#2E3440",
-        "theme": "dark"
-    },
-    "keywords": [
-        "Theme",
-        "Dark Theme",
-        "Medium Dark Theme",
-        "Nord",
-        "Noctis",
-        "Accessible Theme",
-        "Dark Theme For Daylight",
-        "Cool Colors"
-    ],
-    "categories": [
-        "Themes"
-    ],
-    "icon": "icon.png",
-    "contributes": {
-        "themes": [
-            {
-                "label": "Arctis",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Arctis-color-theme.json"
-            }
-        ]
-    }
+  "name": "arctis",
+  "displayName": "Arctis",
+  "description": "A cool, soothing blend of Nord and Noctis for comfortable coding all day long.",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.59.0"
+  },
+  "publisher": "avidworks",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avidworks/arctis.git"
+  },
+  "galleryBanner": {
+    "color": "#2E3440",
+    "theme": "dark"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Medium Dark Theme",
+    "Nord",
+    "Noctis",
+    "Accessible Theme",
+    "Dark Theme For Daylight",
+    "Cool Colors",
+    "Pastel"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Arctis",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Arctis-color-theme.json"
+      }
+    ]
+  }
 }
