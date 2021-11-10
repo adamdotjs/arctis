@@ -4,21 +4,23 @@
 
 ### My two favorite themes put together for comfortable coding all day long.
 
-When working in bright light or using multiple monitors with different foreground brightness, I find that having too dark of a theme can be straining to the eyes. Arctis aims to solve that problem by maintaining strong legibility and contrast in all lighting conditions without relying on switching between dark and light themes.
+---
 
-To accomplish this, it borrows the brilliant syntax highlighting from Noctis (with color tweaks to maintain the original contrast ratios) and combines it with the beautiful, soothing UI from Nord. The result is what I think is truly a perfect combination.
+Arctis borrows the brilliant syntax highlighting from Noctis (with color tweaks to maintain the original contrast ratios) and combines it with the beautiful, soothing UI from Nord. The result is what I think is truly a perfect combination.
+
+#### v1.0 now includes an additional option with a darker UI!
 
 Keeping accessibility in mind, all syntax colors maintain at least WCAG 4.5:1 minimum contrast.
 
-### **Main UI**
+### **Arctis**
 
-![main](main.jpg)
+![arctis](main.jpg)
 
-### **React**
+### **Arctis Dark**
 
-![react](react.jpg)
+![arctis dark](main-dark.jpg)
 
-### **Python**
+### **Python sample**
 
 ![python](python.jpg)
 
@@ -31,9 +33,9 @@ Keeping accessibility in mind, all syntax colors maintain at least WCAG 4.5:1 mi
 ## Font settings as shown in screenshots:
 
 ```
-"editor.fontFamily": "Source Code Variable",
+"editor.fontFamily": "Office Code Pro",
 "editor.fontWeight": "400",
-"editor.lineHeight": "1.5"
+"editor.lineHeight": "1.8"
 ```
 
 ## Credits:

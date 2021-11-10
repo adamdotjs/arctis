@@ -4,6 +4,10 @@ All notable changes to the "arctis" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.0] - 11-09-2021
+
+- Added an additional option with a darker UI. Calling this release V1 as it's pretty much complete now.
+
 ## [0.1.0] - 10-20-2021
 
 - Readjusted some of the colors to maintain the original contrast ratios from the Noctis syntax colors. I was finding that because a lot of the colors were so similar, it was hard to distinguish certain things from one another.
