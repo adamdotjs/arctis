@@ -6,6 +6,8 @@
 
 ---
 
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/avidworks.arctis)
+
 Arctis borrows the brilliant syntax highlighting from Noctis (with color tweaks to maintain the original contrast ratios) and combines it with the beautiful, soothing UI from Nord. The result is what I think is truly a perfect combination.
 
 #### v1.0 now includes an additional option with a darker UI!
