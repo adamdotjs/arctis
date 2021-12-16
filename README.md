@@ -8,11 +8,9 @@
 
 [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/avidworks.arctis)
 
-Arctis borrows the brilliant syntax highlighting from Noctis (with color tweaks to maintain the original contrast ratios) and combines it with the beautiful, soothing UI from Nord. The result is what I think is truly a perfect combination.
+Arctis borrows the brilliant syntax highlighting from Noctis (with color tweaks) and combines it with the beautiful, soothing UI from Nord. The result is what I think is a perfect combination.
 
-#### v1.0 now includes an additional option with a darker UI!
-
-Keeping accessibility in mind, all syntax colors maintain at least WCAG 4.5:1 minimum contrast.
+Keeping accessibility in mind, most syntax colors maintain at least WCAG 4.5:1 minimum contrast.
 
 ### **Arctis**
 
@@ -22,11 +20,7 @@ Keeping accessibility in mind, all syntax colors maintain at least WCAG 4.5:1 mi
 
 ![arctis dark](main-dark.jpg)
 
-### **Python sample**
-
-![python](python.jpg)
-
-## Now includes Nord's theming for the new built in bracket colorizer. Enable the following to use:
+## Includes Nord's theming for the new built in bracket colorizer. Enable the following to use:
 
 ```
 "editor.bracketPairColorization.enabled": true,
@@ -35,8 +29,8 @@ Keeping accessibility in mind, all syntax colors maintain at least WCAG 4.5:1 mi
 ## Font settings as shown in screenshots:
 
 ```
-"editor.fontFamily": "Office Code Pro",
-"editor.fontWeight": "400",
+"editor.fontFamily": "Cascadia Code",
+"editor.fontWeight": "350",
 "editor.lineHeight": "1.8"
 ```
 
