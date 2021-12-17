@@ -4,7 +4,11 @@ All notable changes to the "arctis" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [1.0.0] - 12-15-2021
+## [1.2.0] - 12-16-2021
+
+- Adjust poor contrast of tag colors and publish first version of light theme
+
+## [1.1.0] - 12-15-2021
 
 - Adjusted syntax colors to better mesh between the two themes, and help cut down on some of the harsh contrast with a few of the colors when using the dark variant.
 
