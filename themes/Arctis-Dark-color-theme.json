@@ -44,7 +44,7 @@
 		"editor.findMatchHighlightBackground": "#81A1C133",
 		"editor.findRangeHighlightBackground": "#81A1C133",
 		"editor.focusedStackFrameHighlightBackground": "#4C566A",
-		"editor.foreground": "#D8DEE9",
+		"editor.foreground": "#CBD3E2",
 		"editor.hoverHighlightBackground": "#2E3440",
 		"editor.inactiveSelectionBackground": "#3B4252cc",
 		"editor.inlineValuesBackground": "#434C5E",
@@ -257,7 +257,7 @@
 		"terminal.ansiBrightBlue": "#A290D5",
 		"terminal.ansiBrightCyan": "#48CCE5",
 		"terminal.ansiBrightGreen": "#24BB7C",
-		"terminal.ansiBrightMagenta": "#E389A9",
+		"terminal.ansiBrightMagenta": "#D48CA5",
 		"terminal.ansiBrightRed": "#DB8971",
 		"terminal.ansiBrightYellow": "#E6CD93",
 		"terminal.ansiBrightWhite": "#e5e9f0",
@@ -265,12 +265,12 @@
 		"terminal.ansiBlue": "#A290D5",
 		"terminal.ansiCyan": "#48CCE5",
 		"terminal.ansiGreen": "#24BB7C",
-		"terminal.ansiMagenta": "#E389A9",
+		"terminal.ansiMagenta": "#D48CA5",
 		"terminal.ansiRed": "#DB8971",
 		"terminal.ansiYellow": "#E6CD93",
 		"terminal.ansiWhite": "#e5e9f0",
 		"terminal.background": "#22262F",
-		"terminal.foreground": "#d8dee9",
+		"terminal.foreground": "#CBD3E2",
 		"textBlockQuote.background": "#2E3440",
 		"textBlockQuote.border": "#5E81AC",
 		"textCodeBlock.background": "#434C5E",
@@ -340,7 +340,7 @@
 				"markup.other.anchor string"
 			],
 			"settings": {
-				"foreground": "#d8dee9"
+				"foreground": "#CBD3E2"
 			}
 		},
 		{
@@ -400,7 +400,7 @@
 				"keyword.control.def.ruby"
 			],
 			"settings": {
-				"foreground": "#E389A9"
+				"foreground": "#D48CA5"
 			}
 		},
 		{

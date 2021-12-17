@@ -257,7 +257,7 @@
 		"terminal.ansiBrightBlue": "#A290D5",
 		"terminal.ansiBrightCyan": "#48CCE5",
 		"terminal.ansiBrightGreen": "#24BB7C",
-		"terminal.ansiBrightMagenta": "#E389A9",
+		"terminal.ansiBrightMagenta": "#D48CA5",
 		"terminal.ansiBrightRed": "#DB8971",
 		"terminal.ansiBrightYellow": "#E6CD93",
 		"terminal.ansiBrightWhite": "#eceff4",
@@ -265,7 +265,7 @@
 		"terminal.ansiBlue": "#A290D5",
 		"terminal.ansiCyan": "#48CCE5",
 		"terminal.ansiGreen": "#24BB7C",
-		"terminal.ansiMagenta": "#E389A9",
+		"terminal.ansiMagenta": "#D48CA5",
 		"terminal.ansiRed": "#DB8971",
 		"terminal.ansiYellow": "#E6CD93",
 		"terminal.ansiWhite": "#e5e9f0",
@@ -400,7 +400,7 @@
 				"keyword.control.def.ruby"
 			],
 			"settings": {
-				"foreground": "#E389A9"
+				"foreground": "#D48CA5"
 			}
 		},
 		{
