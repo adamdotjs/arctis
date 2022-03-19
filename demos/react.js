@@ -2,6 +2,8 @@ function Game() {
   const [history, setHistory] = useState([{ squares: Array(9).fill(null) }]);
   const [xIsNext, setXIsNext] = useState(true);
 
+  // I AM A COMMENT!!
+
   const current = history[history.length - 1];
   const winner = calculateWinner(current.squares);
   let status;

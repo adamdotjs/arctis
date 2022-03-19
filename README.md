@@ -10,6 +10,8 @@
 
 Arctis borrows the brilliant syntax highlighting from Noctis (with color tweaks) and combines it with the beautiful, soothing UI from Nord. The result is what I think is a perfect combination. Includes both a darker version and now a light theme.
 
+Arctis Night borrows from the UI color palette from Sarah Drasner's lovely [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) theme.
+
 Keeping accessibility in mind, most syntax colors maintain at least WCAG 4.5:1 minimum contrast.
 
 ## **Arctis - The all purpose theme**
@@ -19,6 +21,10 @@ Keeping accessibility in mind, most syntax colors maintain at least WCAG 4.5:1 m
 ## **Arctis Dark - For when you want more contrast**
 
 ![arctis dark](main-dark.jpg)
+
+## **Arctis Night - For those late night sessions**
+
+![arctis night](main-night.jpg)
 
 ## **Arctis Light - For those who prefer light themes**
 
@@ -35,7 +41,7 @@ Keeping accessibility in mind, most syntax colors maintain at least WCAG 4.5:1 m
 ```
 "editor.fontFamily": "Cascadia Code",
 "editor.fontWeight": "350",
-"editor.lineHeight": "1.8"
+"editor.lineHeight": "1.7"
 ```
 
 #### Credits:
