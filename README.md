@@ -39,8 +39,8 @@ Keeping accessibility in mind, most syntax colors maintain at least WCAG 4.5:1 m
 ### Font settings as shown in screenshots:
 
 ```
-"editor.fontFamily": "Cascadia Code",
-"editor.fontWeight": "350",
+"editor.fontFamily": "Ligalex Mono (from ToxicFrog's Ligaturized Fonts)",
+"editor.fontWeight": "400",
 "editor.lineHeight": "1.7"
 ```
 
