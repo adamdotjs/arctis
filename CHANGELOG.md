@@ -4,6 +4,10 @@ All notable changes to the "arctis" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.3.1] - 04-05-2022
+
+- Adjust saturation to make syntax stand out more against backgrounds.
+
 ## [1.3.0] - 3-18-2022
 
 - Adjusted html/jsx tag puncation and comment colors, and added the "Night" theme variant inspired by Night Owl.
