@@ -4,7 +4,7 @@ All notable changes to the "arctis" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [1.3.2] - 04-06-2022
+## [1.3.3] - 04-06-2022
 
 - Adjust syntax colors by one point brighter. Some colors appeared dim.
 
