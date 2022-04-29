@@ -4,6 +4,14 @@ All notable changes to the "arctis" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.4.1] - 04-28-2022
+
+- Fix variant name
+
+## [1.4.0] - 04-28-2022
+
+- Add Arctis High Contrast theme. Adjust bracket pair colors per user request.
+
 ## [1.3.3] - 04-06-2022
 
 - Adjust syntax colors by one point brighter. Some colors appeared dim.

@@ -26,22 +26,20 @@ Keeping accessibility in mind, most syntax colors maintain at least WCAG 4.5:1 m
 
 ![arctis night](main-night.jpg)
 
+## **Arctis High Contrast - For ultimate contrast**
+
+![arctis black](main-black.jpg)
+
 ## **Arctis Light - For those who prefer light themes**
 
 ![arctis light](main-light.jpg)
 
-### Includes Nord's theming for the new built in bracket colorizer. Enable the following to use:
-
-```
-"editor.bracketPairColorization.enabled": true,
-```
-
 ### Font settings as shown in screenshots:
 
 ```
-"editor.fontFamily": "Cascadia Code",
-"editor.fontWeight": "400",
-"editor.lineHeight": "1.7"
+"editor.fontFamily": "MonoLisa",
+"editor.fontWeight": "500",
+"editor.lineHeight": "24"
 ```
 
 #### Credits:
