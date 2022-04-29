@@ -275,11 +275,11 @@
     "minimap.warningHighlight": "#EA580Ccc",
     "minimapGutter.modifiedBackground": "#EA580C",
 
-    "charts.green": "#166534",
-    "editorGutter.addedBackground": "#166534",
-    "editorOverviewRuler.addedForeground": "#166534",
-    "gitDecoration.untrackedResourceForeground": "#166534",
-    "minimapGutter.addedBackground": "#166534",
+    "charts.green": "#065F46",
+    "editorGutter.addedBackground": "#065F46",
+    "editorOverviewRuler.addedForeground": "#065F46",
+    "gitDecoration.untrackedResourceForeground": "#065F46",
+    "minimapGutter.addedBackground": "#065F46",
 
     "charts.orange": "#C2410C",
     "inputValidation.warningBackground": "#C2410C",
@@ -291,14 +291,14 @@
 
     "terminal.ansiBrightBlue": "#4F46E5",
     "terminal.ansiBrightCyan": "#0369A1",
-    "terminal.ansiBrightGreen": "#166534",
+    "terminal.ansiBrightGreen": "#065F46",
     "terminal.ansiBrightMagenta": "#DB2777",
     "terminal.ansiBrightRed": "#C2410C",
     "terminal.ansiBrightYellow": "#EA580C",
     "terminal.ansiBlack": "#434C5E",
     "terminal.ansiBlue": "#4F46E5",
     "terminal.ansiCyan": "#0369A1",
-    "terminal.ansiGreen": "#166534",
+    "terminal.ansiGreen": "#065F46",
     "terminal.ansiMagenta": "#DB2777",
     "terminal.ansiRed": "#C2410C",
     "terminal.ansiYellow": "#EA580C",
@@ -691,7 +691,7 @@
         "text.tex markup.raw"
       ],
       "settings": {
-        "foreground": "#166534"
+        "foreground": "#065F46"
       }
     },
     {

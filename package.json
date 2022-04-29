@@ -1,8 +1,8 @@
 {
   "name": "arctis",
   "displayName": "Arctis",
-  "description": "A perfect blend of Nord and Noctis for comfortable coding all day long.",
-  "version": "1.5.0",
+  "description": "A special blend of Nord and Noctis for comfortable coding all day long.",
+  "version": "1.5.1",
   "engines": {
     "vscode": "^1.59.0"
   },
