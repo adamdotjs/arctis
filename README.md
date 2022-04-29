@@ -1,38 +1,52 @@
 # Arctis Theme
 
-### NORD x NOCTIS
-
-### My two favorite themes put together for comfortable coding all day long.
+## Nord x Noctis
 
 ---
 
 [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/avidworks.arctis)
 
-Arctis borrows the brilliant syntax highlighting from Noctis (with color tweaks) and combines it with the beautiful, soothing UI from Nord. The result is what I think is a perfect combination. Includes both a darker version and now a light theme.
+Arctis borrows the brilliant syntax highlighting from Noctis and combines it with Nord's soothing UI colors. The result is what I think is a perfect combination. Syntax colors were selected out of Tailwind's color palette to match Noctis but with improved readability.
 
-Arctis Night borrows from the UI color palette from Sarah Drasner's lovely [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) theme.
+Several versions are included, including:
+
+- **Arctis** - Base theme with Nord UI
+- **Arctis Dark** - Darkened version of the base theme
+- **Arctis Muted** - Base theme with desaturated colors for those who prefer less punchy colors. Similar to previous versions of the base theme.
+- **Arctis Muted Dark** - Arctis Dark with the muted color palette.
+- **Arctis Night** - Arctis Night borrows from the UI color palette from Sarah Drasner's lovely [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) theme.
+- **Arctis High Contrast** - A solid black background to really make the code stand out.
+- **Arctis Light** - Light variant of the base theme for those who prefer them.
 
 Keeping accessibility in mind, most syntax colors maintain at least WCAG 4.5:1 minimum contrast.
 
-## **Arctis - The all purpose theme**
+## **Arctis**
 
-![arctis](main.jpg)
+![arctis](arctis.jpg)
 
-## **Arctis Dark - For when you want more contrast**
+## **Arctis Dark**
 
-![arctis dark](main-dark.jpg)
+![arctis dark](arctis-dark.jpg)
 
-## **Arctis Night - For those late night sessions**
+## **Arctis Muted**
 
-![arctis night](main-night.jpg)
+![arctis muted](arctis-muted.jpg)
 
-## **Arctis High Contrast - For ultimate contrast**
+## **Arctis Muted Dark**
 
-![arctis black](main-black.jpg)
+![arctis muted dark](arctis-muted-dark.jpg)
 
-## **Arctis Light - For those who prefer light themes**
+## **Arctis Night**
 
-![arctis light](main-light.jpg)
+![arctis night](arctis-night.jpg)
+
+## **Arctis High Contrast**
+
+![arctis high contrast](arctis-high-contrast.jpg)
+
+## **Arctis Light**
+
+![arctis light](arctis-light.jpg)
 
 ### Font settings as shown in screenshots:
 

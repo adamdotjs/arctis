@@ -2,7 +2,7 @@
   "name": "arctis",
   "displayName": "Arctis",
   "description": "A perfect blend of Nord and Noctis for comfortable coding all day long.",
-  "version": "1.4.2",
+  "version": "1.5.0",
   "engines": {
     "vscode": "^1.59.0"
   },
@@ -46,6 +46,16 @@
         "label": "Arctis Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Arctis-Dark-color-theme.json"
+      },
+      {
+        "label": "Arctis Muted",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Arctis-Muted-color-theme.json"
+      },
+      {
+        "label": "Arctis Muted Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Arctis-Muted-Dark-color-theme.json"
       },
       {
         "label": "Arctis Night",

@@ -4,6 +4,10 @@ All notable changes to the "arctis" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.5.0] - 04-29-2022
+
+- Decided to increase the saturation of the syntax highlighting quite drastically to help readability. Colors were chosen from Tailwind's color library. In case people preferred the desaturated look from before, I created new Muted versions to be more in line with previous versions.
+
 ## [1.4.2] - 04-29-2022
 
 - Adjust bracket colors of light theme
