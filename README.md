@@ -6,7 +6,7 @@
 
 [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/avidworks.arctis)
 
-Arctis borrows the brilliant syntax highlighting from Noctis and combines it with Nord's soothing UI colors. The result is what I think is a perfect combination. Syntax colors were selected out of Tailwind's color palette to closely match Noctis colors but with improved readability.
+Arctis borrows the brilliant syntax highlighting from Noctis and combines it with Nord's soothing UI colors. The result is what I think is a perfect combination. Syntax colors were selected out of Tailwind's color palette to closely match Noctis colors but adjusted to maximize readability.
 
 Several versions are included, including:
 

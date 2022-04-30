@@ -257,7 +257,7 @@
     "terminal.ansiBrightBlue": "#858EEA",
     "terminal.ansiBrightCyan": "#8ACFEF",
     "terminal.ansiBrightGreen": "#1AB883",
-    "terminal.ansiBrightMagenta": "#E495C0",
+    "terminal.ansiBrightMagenta": "#E391BE",
     "terminal.ansiBrightRed": "#E29250",
     "terminal.ansiBrightYellow": "#F5D4AD",
     "terminal.ansiBrightWhite": "#E5E9F0",
@@ -265,7 +265,7 @@
     "terminal.ansiBlue": "#858EEA",
     "terminal.ansiCyan": "#8ACFEF",
     "terminal.ansiGreen": "#1AB883",
-    "terminal.ansiMagenta": "#E495C0",
+    "terminal.ansiMagenta": "#E391BE",
     "terminal.ansiRed": "#E29250",
     "terminal.ansiYellow": "#F5D4AD",
     "terminal.ansiWhite": "#D8DEE9",
@@ -408,7 +408,7 @@
         "keyword.control.def.ruby"
       ],
       "settings": {
-        "foreground": "#E495C0"
+        "foreground": "#E391BE"
       }
     },
     {
@@ -719,7 +719,7 @@
         "source.tf support.class"
       ],
       "settings": {
-        "foreground": "#1EB8D2"
+        "foreground": "#1DB4CE"
       }
     },
     {
