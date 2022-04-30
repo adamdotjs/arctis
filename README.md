@@ -12,6 +12,7 @@ Several versions are included, including:
 
 - **Arctis** - Base theme with Nord UI
 - **Arctis Dark** - Darkened version of the base theme
+- **Artcis Moon** - A moonlit version of Arctis Dark
 - **Arctis Night** - Arctis Night borrows from the UI color palette from Sarah Drasner's lovely [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) theme.
 - **Arctis High Contrast** - A solid black background to really make the code stand out.
 - **Arctis Light** - Light variant of the base theme for those who prefer them.
@@ -25,6 +26,10 @@ Keeping accessibility in mind, most syntax colors maintain at least WCAG 4.5:1 m
 ## **Arctis Dark**
 
 ![arctis dark](arctis-dark.jpg)
+
+## **Arctis Moon**
+
+![arctis moon](arctis-moon.jpg)
 
 ## **Arctis Night**
 

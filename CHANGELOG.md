@@ -4,6 +4,10 @@ All notable changes to the "arctis" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [2.0.0] - 04-30-2022
+
+- Add Moon variant. Final version.
+
 ## [1.5.2] - 04-29-2022
 
 - Revert to previous variants. New colors were oversaturated. Can't leave anything alone...

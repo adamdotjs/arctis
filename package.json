@@ -1,67 +1,72 @@
 {
-  "name": "arctis",
-  "displayName": "Arctis",
-  "description": "A special blend of Nord and Noctis for comfortable coding all day long.",
-  "version": "1.5.3",
-  "engines": {
-    "vscode": "^1.59.0"
-  },
-  "publisher": "avidworks",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/avidworks/arctis.git"
-  },
-  "galleryBanner": {
-    "color": "#2E3440",
-    "theme": "dark"
-  },
-  "keywords": [
-    "Theme",
-    "Dark Theme",
-    "Light Theme",
-    "Accessible Theme",
-    "Arctic",
-    "Arctis",
-    "Gray theme",
-    "Blue theme",
-    "Nord",
-    "Noctis",
-    "Night Owl",
-    "Cool Colors",
-    "Pastel",
-    "Comfortable"
-  ],
-  "categories": [
-    "Themes"
-  ],
-  "icon": "icon.png",
-  "contributes": {
-    "themes": [
-      {
-        "label": "Arctis",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Arctis-color-theme.json"
-      },
-      {
-        "label": "Arctis Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Arctis-Dark-color-theme.json"
-      },
-      {
-        "label": "Arctis Night",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Arctis-Night-color-theme.json"
-      },
-      {
-        "label": "Arctis High Contrast",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Arctis-HighContrast-color-theme.json"
-      },
-      {
-        "label": "Arctis Light",
-        "uiTheme": "vs",
-        "path": "./themes/Arctis-Light-color-theme.json"
-      }
-    ]
-  }
+	"name": "arctis",
+	"displayName": "Arctis",
+	"description": "A special blend of Nord and Noctis for comfortable coding all day long.",
+	"version": "2.0.0",
+	"engines": {
+		"vscode": "^1.59.0"
+	},
+	"publisher": "avidworks",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/avidworks/arctis.git"
+	},
+	"galleryBanner": {
+		"color": "#2E3440",
+		"theme": "dark"
+	},
+	"keywords": [
+		"Theme",
+		"Dark Theme",
+		"Light Theme",
+		"Accessible Theme",
+		"Arctic",
+		"Arctis",
+		"Gray theme",
+		"Blue theme",
+		"Nord",
+		"Noctis",
+		"Night Owl",
+		"Cool Colors",
+		"Pastel",
+		"Comfortable"
+	],
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Arctis",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Arctis-color-theme.json"
+			},
+			{
+				"label": "Arctis Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Arctis-Dark-color-theme.json"
+			},
+			{
+				"label": "Arctis Moon",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Arctis-Moon-color-theme.json"
+			},
+			{
+				"label": "Arctis Night",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Arctis-Night-color-theme.json"
+			},
+			{
+				"label": "Arctis High Contrast",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Arctis-HighContrast-color-theme.json"
+			},
+			{
+				"label": "Arctis Light",
+				"uiTheme": "vs",
+				"path": "./themes/Arctis-Light-color-theme.json"
+			}
+		]
+	}
 }
