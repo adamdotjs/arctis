@@ -6,7 +6,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [2.0.1] - 04-30-2022
 
-- Fix tag syntax on base theme. Did not update the same as others.
+- Fix syntax on base theme. Did not update the same as others.
 
 ## [2.0.0] - 04-30-2022
 
