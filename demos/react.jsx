@@ -1,18 +1,17 @@
-import React, { useState, useEffect } from 'react';
+import { styled } from 'styled-components';
 
-function Example() {
-  const [count, setCount] = useState(0);
+const Wrapper = styled.div`
+	background: blue;
+	padding: 4px;
+`;
 
-  // Similar to componentDidMount and componentDidUpdate:
-  useEffect(() => {
-    // Update the document title using the browser API
-    document.title = `You clicked ${count} times`;
-  });
+const PageHeader = () => {
+	return (
+		<Wrapper>
+			<h1>Let's get this MONEY</h1>
+			<p>I honestly can't believe I've never heard this before. Holy shit, it's fucking amazing.</p>
+		</Wrapper>
+	);
+};
 
-  return (
-    <div>
-      <p>You clicked {count} times</p>
-      <button onClick={() => setCount(count + 1)}>Click me</button>
-    </div>
-  );
-}
+export default PageHeader;

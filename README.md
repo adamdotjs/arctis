@@ -1,14 +1,12 @@
 # Arctis Theme
 
-## Nord x Noctis
-
 ---
 
 [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/avidworks.arctis)
 
-Arctis borrows the brilliant syntax highlighting from Noctis and combines it with Nord's soothing UI colors. Syntax colors were adjusted to closely match Noctis colors but adjusted to maximize readability. The result is what I think is a lovely combination.
+Arctis borrows the brilliant syntax highlighting from Noctis and combines it with Nord's soothing UI. Syntax colors were adjusted to maximize readability, and the result is what I think is a lovely combination.
 
-Several versions are included, including:
+Several versions were built upon the base theme and are now included, including:
 
 - **Arctis** - Base theme with Nord UI
 - **Arctis Dark** - Darkened version of the base theme
