@@ -1,3 +1,5 @@
+// https://kentcdodds.com/blog/usememo-and-usecallback
+
 function CandyDispenser() {
   const initialCandies = ['snickers', 'skittles', 'twix', 'milky way']
   const [candies, setCandies] = React.useState(initialCandies)
