@@ -4,14 +4,14 @@
 
 [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/avidworks.arctis)
 
-Arctis borrows the brilliant syntax highlighting from Noctis and combines it with Nord's soothing UI. Syntax colors were adjusted to maximize readability, and the result is what I think is a lovely combination.
+Arctis borrows the brilliant syntax highlighting from Noctis and combines it with Nord's UI, with color adjustments to maximize readability. The result is what I think is a lovely combination and should be accessible for most users.
 
 Several versions were built upon the base theme and are now included, including:
 
 - **Arctis** - Base theme with Nord UI
 - **Arctis Dark** - Darkened version of the base theme
-- **Artcis Moon** - A moonlit version of Arctis Dark
-- **Arctis Night** - Arctis Night borrows from the UI color palette from Sarah Drasner's lovely [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) theme.
+- **Artcis Moon** - A moonlit version of Arctis Dark, inspired by [Moonlight](https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight).
+- **Arctis Night** - Arctis Night, inspired by the lovely [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) theme.
 - **Arctis High Contrast** - A solid black background to really make the code stand out.
 - **Arctis Light** - Light variant of the base theme for those who prefer them.
 

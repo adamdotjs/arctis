@@ -2,7 +2,7 @@
 	"name": "arctis",
 	"displayName": "Arctis",
 	"description": "A special blend of Nord and Noctis for comfortable coding all day long.",
-	"version": "2.0.2",
+	"version": "2.1.0",
 	"engines": {
 		"vscode": "^1.59.0"
 	},
@@ -26,6 +26,8 @@
 		"Blue theme",
 		"Nord",
 		"Noctis",
+		"High Contrast",
+		"Moonlight",
 		"Night Owl",
 		"Cool Colors",
 		"Pastel",
