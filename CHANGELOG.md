@@ -4,6 +4,12 @@ All notable changes to the "arctis" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [2.1.0] - 05-04-2022
+
+- Accessibility update: Redesign UI colors to provide more contrast where previously it was extremely poor (line numbers, etc.)
+- Add borders between tabs
+- Fix list icon visibility on active state
+
 ## [2.0.2] - 04-30-2022
 
 - Fix purple charts color
