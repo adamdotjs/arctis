@@ -6,6 +6,7 @@ function CandyDispenser() {
 	const dispense = (candy) => {
 		setCandies((allCandies) => allCandies.filter((c) => c !== candy));
 	};
+
 	return (
 		<div>
 			<h1>Candy Dispenser</h1>

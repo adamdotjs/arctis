@@ -4,6 +4,10 @@ All notable changes to the "arctis" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [2.1.3] - 05-08-2022
+
+- Darken white text on UI colors slightly, as it was overpowering syntax colors.
+
 ## [2.1.2] - 05-08-2022
 
 - Github issue: Reduce brightness of bracket match border (#5). Slightly darken UI text to reduce distraction from editor (#6).
