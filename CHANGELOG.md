@@ -4,6 +4,10 @@ All notable changes to the "arctis" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [2.1.2] - 05-08-2022
+
+- Github issue: Reduce brightness of bracket match border (#5). Slightly darken UI text to reduce distraction from editor (#6).
+
 ## [2.1.1] - 05-05-2022
 
 - Fix UI of light theme, settings didn't match new variants of dark theme.

@@ -46,7 +46,7 @@ Keeping accessibility in mind, most syntax colors maintain at least WCAG 4.5:1 m
 ```
 "editor.fontFamily": "MonoLisa",
 "editor.fontWeight": "500",
-"editor.lineHeight": "24"
+"editor.lineHeight": "1.6"
 ```
 
 #### Credits:
