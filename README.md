@@ -17,6 +17,8 @@ Several versions were built upon the base theme and are now included, including:
 
 Keeping accessibility in mind, most syntax colors maintain at least WCAG 4.5:1 minimum contrast.
 
+Note: This theme is still "in development", meaning it may change at any time. At this point though, anything would be minor and only a nit-pick unless it's a feature request. If you do have any requests or changes, please submit an issue on Github.
+
 ## **Arctis**
 
 ![arctis](arctis.jpg)
