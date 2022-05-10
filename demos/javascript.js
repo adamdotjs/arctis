@@ -1,27 +1,28 @@
-/**
- * Creates an instance of a Person.
- * @param {string} who - The name of the person.
- */
-const BROWSER = navigator.userAgent.search('Firefox') > -1;
-
-export default class Person {
-  constructor(who, likesDogs) {
-    this.who = who;
-    this.likesDogs = likesDogs;
-  }
-  about() {
-    const { who, likesDogs } = this;
-    let select = 12345;
-    if (likesDogs) {
-      select = 'dogs';
-    } else {
-      select = 'cats';
-    }
-    return `${who} likes ${select}`;
-  }
+function loadJson(url) {
+	return fetch(url).then((response) => response.json());
 }
-var John = new Person('John', true);
-class Someone extends Person {}
-console.log(John.about().length, BROWSER);
 
-console.log(Someone);
+function loadGithubUser(name) {
+	return loadJson(`https://api.github.com/users/${name}`);
+}
+
+function showAvatar(githubUser) {
+	return new Promise(function (resolve, reject) {
+		let img = document.createElement('img');
+		img.src = githubUser.avatar_url;
+		img.className = 'promise-avatar-example';
+		document.body.append(img);
+
+		setTimeout(() => {
+			img.remove();
+			resolve(githubUser);
+		}, 3000);
+	});
+}
+
+// Use them:
+loadJson('/article/promise-chaining/user.json')
+	.then((user) => loadGithubUser(user.name))
+	.then(showAvatar)
+	.then((githubUser) => alert(`Finished showing ${githubUser.name}`));
+// ...
