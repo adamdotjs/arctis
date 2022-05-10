@@ -4,6 +4,10 @@ All notable changes to the "arctis" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [2.1.5] - 05-08-2022
+
+- Smooth UI colors, should be final adjustment.
+
 ## [2.1.4] - 05-08-2022
 
 - Darken white text on editor slightly, as it was overpowering syntax colors.
