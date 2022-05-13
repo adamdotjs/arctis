@@ -4,6 +4,10 @@ All notable changes to the "arctis" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [2.1.6] - 05-13-2022
+
+- Lighten syntax slightly
+
 ## [2.1.5] - 05-09-2022
 
 - Smooth UI colors, should be final adjustment.
