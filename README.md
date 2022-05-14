@@ -15,6 +15,8 @@ Several versions were built upon the base theme and are now included, including:
 - **Arctis High Contrast** - A solid black background to really make the code stand out.
 - **Arctis Light** - Light variant of the base theme for those who prefer them.
 
+Additionally, each theme includes a variant with all of the italics removed with the exception of comment blocks.
+
 Keeping accessibility in mind, most syntax colors maintain at least WCAG 4.5:1 minimum contrast.
 
 ## **Arctis**
@@ -48,6 +50,8 @@ Keeping accessibility in mind, most syntax colors maintain at least WCAG 4.5:1 m
 "editor.fontWeight": "500",
 "editor.lineHeight": "1.6"
 ```
+
+Colors were set on a monitor color calibrated to 120cd/m2 but tested across multiple scenarios.
 
 #### Credits:
 

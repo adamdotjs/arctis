@@ -4,6 +4,10 @@ All notable changes to the "arctis" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [2.2.0] - 05-13-2022
+
+- Add variant sets with no italics
+
 ## [2.1.6] - 05-13-2022
 
 - Lighten syntax slightly

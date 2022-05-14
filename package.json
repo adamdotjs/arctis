@@ -2,7 +2,7 @@
 	"name": "arctis",
 	"displayName": "Arctis",
 	"description": "A special blend of Nord and Noctis for comfortable coding all day long.",
-	"version": "2.1.6",
+	"version": "2.2.0",
 	"engines": {
 		"vscode": "^1.59.0"
 	},
@@ -45,9 +45,19 @@
 				"path": "./themes/Arctis-color-theme.json"
 			},
 			{
+				"label": "Arctis - No Italics",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Arctis-NoItalics-color-theme.json"
+			},
+			{
 				"label": "Arctis Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Arctis-Dark-color-theme.json"
+			},
+			{
+				"label": "Arctis Dark - No Italics",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Arctis-Dark-NoItalics-color-theme.json"
 			},
 			{
 				"label": "Arctis Moon",
@@ -55,9 +65,19 @@
 				"path": "./themes/Arctis-Moon-color-theme.json"
 			},
 			{
+				"label": "Arctis Moon - No Italics",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Arctis-Moon-NoItalics-color-theme.json"
+			},
+			{
 				"label": "Arctis Night",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Arctis-Night-color-theme.json"
+			},
+			{
+				"label": "Arctis Night - No Italics",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Arctis-Night-NoItalics-color-theme.json"
 			},
 			{
 				"label": "Arctis High Contrast",
@@ -65,9 +85,19 @@
 				"path": "./themes/Arctis-HighContrast-color-theme.json"
 			},
 			{
+				"label": "Arctis High Contrast - No Italics",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Arctis-HighContrast-NoItalics-color-theme.json"
+			},
+			{
 				"label": "Arctis Light",
 				"uiTheme": "vs",
 				"path": "./themes/Arctis-Light-color-theme.json"
+			},
+			{
+				"label": "Arctis Light - No Italics",
+				"uiTheme": "vs",
+				"path": "./themes/Arctis-Light-NoItalics-color-theme.json"
 			}
 		]
 	}
