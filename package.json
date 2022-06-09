@@ -1,8 +1,8 @@
 {
 	"name": "arctis",
 	"displayName": "Arctis",
-	"description": "A special blend of Nord and Noctis.",
-	"version": "2.3.0",
+	"description": "A lovely blend of Noctis and Nord, plus more.",
+	"version": "2.3.1",
 	"engines": {
 		"vscode": "^1.59.0"
 	},

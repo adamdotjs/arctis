@@ -4,6 +4,10 @@ All notable changes to the "arctis" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [2.3.1] - 06-08-2022
+
+- Update package.json
+
 ## [2.3.0] - 06-07-2022
 
 - Add Dark+ variant
